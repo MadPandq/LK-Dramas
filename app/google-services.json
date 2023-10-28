@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899545374555",
+    "project_id": "lk-dramas",
+    "storage_bucket": "lk-dramas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899545374555:android:755e86cf6e34545e06047e",
+        "android_client_info": {
+          "package_name": "com.santotomas_lauragarcia.lk_dramas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-eCbSEGgwmKQeDOfiQD06wm80e0Py_6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
